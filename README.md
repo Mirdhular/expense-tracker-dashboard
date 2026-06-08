@@ -79,6 +79,11 @@ Through this project, I gained practical experience in:
 * Version control using Git and GitHub
 
 ---
+## Screenshot
+
+![Expense Tracker Dashboard](screenshots/dashboard.png)
+
+---
 
 ## Author
 
